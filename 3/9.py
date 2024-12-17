@@ -19,5 +19,5 @@ def lucky_ticket(n):
 
     return suma
 
-print(lucky_ticket(8))
+print(lucky_ticket(4))
 
